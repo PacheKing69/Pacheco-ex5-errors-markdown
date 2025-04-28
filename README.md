@@ -33,7 +33,7 @@ Premium|150€
 Busos llançadora gratuïts
 Pàrquing privat
 
-##Recomanacions
+## Recomanacions
 * Portar impermeable en cas de pluja
 * Aplicació oficial amb mapa interactiu
 
