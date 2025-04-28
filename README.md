@@ -2,7 +2,7 @@
 
 **Celebra la musica i l'art a tot arreu.**
 
-## Escenaris Principals:
+## Escenaris Principals: 
 - Escenari pop
 - Escenari electronica
 - Escenari indie
@@ -25,7 +25,7 @@ Normal|55€
 Premium|150€
 
 ## Normativa
--No es pot entrar amb ampolles de vidre
+- No es pot entrar amb ampolles de vidre
 -Zona d'acampada gratuïta
 -Punt de primers auxilis
 
