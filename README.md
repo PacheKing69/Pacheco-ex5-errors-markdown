@@ -35,7 +35,7 @@ Pàrquing privat
 
 ## Recomanacions
 - Portar impermeable en cas de pluja*
-* Aplicació oficial amb mapa interactiu
+- Aplicació oficial amb mapa interactiu
 
 ## Contacte
 Organització Sonoritats 2025
