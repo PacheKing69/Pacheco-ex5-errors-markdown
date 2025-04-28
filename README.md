@@ -37,7 +37,7 @@ Pàrquing privat
 * Portar impermeable en cas de pluja
 * Aplicació oficial amb mapa interactiu
 
-##Contacte
+## Contacte
 Organització Sonoritats 2025
 Suport telefònic 24/7
 
