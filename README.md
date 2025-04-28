@@ -26,7 +26,7 @@ Premium|150€
 
 ## Normativa
 - No es pot entrar amb ampolles de vidre
--Zona d'acampada gratuïta
+- Zona d'acampada gratuïta
 -Punt de primers auxilis
 
 ##Transport
