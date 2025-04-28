@@ -34,7 +34,7 @@ Busos llançadora gratuïts
 Pàrquing privat
 
 ## Recomanacions
-* Portar impermeable en cas de pluja
+- Portar impermeable en cas de pluja*
 * Aplicació oficial amb mapa interactiu
 
 ## Contacte
